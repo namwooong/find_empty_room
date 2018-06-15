@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="floor_spin_1">
+        <item>Select</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+    <string-array name="floor_spin_2">
+        <item>Select</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>B1</item>
+        <item>B2</item>
+        <item>B3</item>
+        <item>B5</item>
+        <item>B6</item>
+    </string-array>
+    <string-array name="floor_spin_3">
+        <item>Select</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>B1</item>
+    </string-array>
+    <string-array name="floor_spin_4">
+        <item>Select</item>
+        <item>6</item>
+        <item>9</item>
+        <item>B1</item>
+        <item>B2</item>
+    </string-array>
+    <string-array name="floor_spin_5">
+        <item>Select</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="floor_spin_6">
+        <item>Select</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="floor_spin_7">
+        <item>Select</item>
+        <item>3</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="floor_spin_8">
+        <item>Select</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+    <string-array name="floor_spin_9">
+        <item>Select</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="floor_spin_10">
+        <item>Select</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>8</item>
+        <item>9</item>
+        <item>B1</item>
+    </string-array>
+    <string-array name="floor_spin_11">
+        <item>Select</item>
+        <item>2</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="floor_spin_12">
+        <item>Select</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="floor_spin_13">
+        <item>Select</item>
+        <item>1</item>
+        <item>3</item>
+        <item>7</item>
+        <item>8</item>
+        <item>B1</item>
+    </string-array>
+    <string-array name="floor_spin_14">
+        <item>Select</item>
+        <item>1</item>
+        <item>2</item>
+        <item>B1</item>
+    </string-array>
+    <string-array name="floor_spin_15">
+        <item>Select</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="floor_spin_16">
+        <item>Select</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="floor_spin_17">
+        <item>Select</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>B1</item>
+    </string-array>
+    <string-array name="floor_spin_ini">
+        <item>Select</item>
+    </string-array>
+
+</resources>

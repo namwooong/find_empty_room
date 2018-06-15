@@ -1,0 +1,56 @@
+<resources>
+    <!-- General -->
+    <string name="app_name">Empty Room Finder</string>
+    <string name="timetable">Timetable</string>
+    <string name="timeSearch">Search</string>
+    <string name="recommend">Recommendation</string>
+
+
+    <!-- Day String -->
+    <string name="day_mon">Mon</string>
+    <string name="day_tue">Tue</string>
+    <string name="day_wed">Wed</string>
+    <string name="day_thu">Thu</string>
+    <string name="day_fri">Fri</string>
+
+    <!-- Time String -->
+    <string name="time1">0900</string>
+    <string name="time2">1000</string>
+    <string name="time3">1100</string>
+    <string name="time4">1200</string>
+    <string name="time5">1300</string>
+    <string name="time6">1400</string>
+    <string name="time7">1500</string>
+    <string name="time8">1600</string>
+    <string name="time9">1700</string>
+    <string name="time10">1800</string>
+
+    <!-- Spinner Identifier String -->
+    <string name="day_id">Day :</string>
+    <string name="building">Building :</string>
+    <string name="floor">Floor :</string>
+    <string name="time_start">From :</string>
+    <string name="time_end">Until :</string>
+
+    <!-- Recommendation Notice String -->
+    <string name="rec_notice">Recommendation function searches empty rooms based on most recent lectures.\n It may not give wanted results.</string>
+
+    <!-- etc -->
+    <string name="blank">   </string>
+    <string name="test">test</string>
+    <string name="edit">Edit</string>
+    <string name="add">Add</string>
+    <string name="delete">Delete</string>
+    <string name="delete_warn">Delete?</string>
+    <string name="delete_all">Delete All</string>
+    <string name="delete_all_warn">Delete all?</string>
+    <string name="confirm">Yes</string>
+    <string name="reject">No</string>
+
+    <string name="day_name">Day</string>
+    <string name="building_name">Building</string>
+    <string name="room_name">Room</string>
+    <string name="start_name">From</string>
+    <string name="end_name">To</string>
+
+</resources>

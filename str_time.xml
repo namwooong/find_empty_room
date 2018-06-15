@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="time_spin_ini">
+        <item>Select</item>
+    </string-array>
+    <string-array name="time_start_spin">
+        <item>Select</item>
+        <item>0900</item>
+        <item>1000</item>
+        <item>1100</item>
+        <item>1200</item>
+        <item>1300</item>
+        <item>1400</item>
+        <item>1500</item>
+        <item>1600</item>
+        <item>1700</item>
+    </string-array>
+    <string-array name="time_end_spin1">
+        <item>1000</item>
+        <item>1100</item>
+        <item>1200</item>
+        <item>1300</item>
+        <item>1400</item>
+        <item>1500</item>
+        <item>1600</item>
+        <item>1700</item>
+        <item>1800</item>
+    </string-array>
+    <string-array name="time_end_spin2">
+        <item>1100</item>
+        <item>1200</item>
+        <item>1300</item>
+        <item>1400</item>
+        <item>1500</item>
+        <item>1600</item>
+        <item>1700</item>
+        <item>1800</item>
+    </string-array>
+    <string-array name="time_end_spin3">
+        <item>1200</item>
+        <item>1300</item>
+        <item>1400</item>
+        <item>1500</item>
+        <item>1600</item>
+        <item>1700</item>
+        <item>1800</item>
+    </string-array>
+    <string-array name="time_end_spin4">
+        <item>1300</item>
+        <item>1400</item>
+        <item>1500</item>
+        <item>1600</item>
+        <item>1700</item>
+        <item>1800</item>
+    </string-array>
+    <string-array name="time_end_spin5">
+        <item>1400</item>
+        <item>1500</item>
+        <item>1600</item>
+        <item>1700</item>
+        <item>1800</item>
+    </string-array>
+    <string-array name="time_end_spin6">
+        <item>1500</item>
+        <item>1600</item>
+        <item>1700</item>
+        <item>1800</item>
+    </string-array>
+    <string-array name="time_end_spin7">
+        <item>1600</item>
+        <item>1700</item>
+        <item>1800</item>
+    </string-array>
+    <string-array name="time_end_spin8">
+        <item>1700</item>
+        <item>1800</item>
+    </string-array>
+    <string-array name="time_end_spin9">
+        <item>1800</item>
+    </string-array>
+</resources>
